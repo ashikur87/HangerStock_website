@@ -1,0 +1,8 @@
+.support{
+    background-image: url(../../Constants/assets/images/SupportFaq_Image/SupportFaqBgImg.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: fit-content;
+    margin-top: -2%;
+}

@@ -1,0 +1,28 @@
+.bannerImg{
+    background-image:  url(../../Constants/assets/images/ShopAuction_Image/BannerBgImg.png);
+    background-color: black;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: cover;
+    background-size:  102% 102% ;
+    overflow: hidden;
+   
+  
+}
+.bgImg{
+    background-image:linear-gradient(rgba(0, 0, 0, .1), transparent), url(../../Constants/assets/images/ShopAuction_Image/ShopAuctionBgImg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: fit-content;
+    overflow-x: hidden;
+    background-size: 100% 100%;
+    /* margin-top: -5%; */
+}
+.allAuction_bgImg{
+    background-image: url(../../Constants/assets/images/ShopAuctionAllAuction_Image/AllAuctionBgImg.png);
+    width: 100%;
+    height: fit-content;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /* margin-top: -6%; */
+}

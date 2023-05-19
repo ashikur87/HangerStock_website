@@ -1,0 +1,8 @@
+.about{
+    background-image: url(../../Constants/assets/images/About_us/bgImg.png);
+    margin-top: -8%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: fit-content;
+    background-size: 100% 100%
+}

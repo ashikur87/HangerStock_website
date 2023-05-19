@@ -1,0 +1,44 @@
+.bgImg{
+    background-image: url(../../Constants/assets/images/Seller_Mobile/bgImg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height:fit-content;
+    background-size: 100% 100%;
+    margin-top: 0%;
+   
+}
+.seller{
+    background-image: url(../../Constants/assets/images/Seller_how_it_works_Image/SellersBgImg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    /* height: 100%; */
+    background-size: 100% 100%;
+    margin-top: -3%;
+}
+.across{
+    margin-top: 100px;
+}
+.enterpriseBg{
+    background-image: url(../../Constants/assets/images/Seller_I’m_An_Enterprise_Company_Image/BgImg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+}
+.bannerImg{
+    background-image: url(../../Constants/assets/images/Seller_I’m_An_Enterprise_Company_Image/BannerBgImg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+    background-size: 100% 700px;
+}
+.smallBusinessBg{
+    background-image: url(../../Constants/assets/images/Seller_I’m_a_small_business_detail_page_Image/sellersBgImg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+}
+.inventory{
+    padding-top: 50px;
+}

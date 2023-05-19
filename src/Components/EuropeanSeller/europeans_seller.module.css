@@ -1,0 +1,8 @@
+.europeBgImg{
+    background-image: url(../../Constants/assets/images/Seller_European_Seller/bgImg.png);
+    width:100%;
+    height: fit-content;
+    background-repeat: no-repeat;
+     background-size: 100% 100%;
+     margin-top:-5%;
+}
